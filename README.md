@@ -5,7 +5,7 @@
 
 <!-- Education -->
 ## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan-Campus-green)](https://aumc.edu.pk/)
+- Undergraduate in Software Engineering from # [![Air University MultanCampus](https://img.shields.io/badge/Air%20University-Multan-green)](https://aumc.edu.pk/)
 
 <!-- Portfolio Website -->
 ## 💼 Portfolio Website
